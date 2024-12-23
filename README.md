@@ -48,7 +48,7 @@ Steps
 
 Clone the Repository:
 
-git clone https://github.com/yourusername/sentiment-analysis.git
+git clone https://github.com/HaswinAI/sentiment-analysis.git
 cd sentiment-analysis
 
 Set Up Environment:
